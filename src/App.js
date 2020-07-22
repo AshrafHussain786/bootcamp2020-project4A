@@ -100,7 +100,7 @@ function App() {
     { transform: 'translate(1500px,0px)' }              
     ],
     timing: {
-      duration: 20000,
+      duration: 21000,
       iterations: Infinity,      
       easing: "linear",
     }
