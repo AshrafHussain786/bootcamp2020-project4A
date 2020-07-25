@@ -75,3 +75,15 @@
   margin-top: 0px;
   width: 80px;
 }
+.animate {
+  margin-left: 100px;
+}
+.animate button {
+  background-color: yellow;
+  color: black; 
+  margin-left: 50px;
+}
+
+.animate button:hover {
+  background-color: red;    
+}
